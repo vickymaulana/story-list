@@ -24,7 +24,7 @@ Story-List is a ReactJS application designed for writing, adding, and reading st
 
 ### Getting Started
 
-To get started with Story-List, follow these steps:
+To get started with Story-List, follow these steps using pnpm (assuming you have [pnpm](https://pnpm.io/) installed):
 
 1. Clone the repository:
    ```
@@ -34,12 +34,12 @@ To get started with Story-List, follow these steps:
 2. Install dependencies:
    ```
    cd story-list
-   npm install
+   pnpm install
    ```
 
 3. Run the application:
    ```
-   npm run dev
+   pnpm dev
    ```
 
 4. Open your browser and navigate to `http://localhost:3000` to start using Story-List.
